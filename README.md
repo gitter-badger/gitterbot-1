@@ -1,3 +1,6 @@
+### NOTE: CamperBot contributions have moved to [FreeCodeCamp/camperbot](https://github.com/freecodecamp/camperbot)
+
+[![Join the chat at https://gitter.im/brianamarie-gitterbot/Lobby](https://badges.gitter.im/brianamarie-gitterbot/Lobby.svg)](https://gitter.im/brianamarie-gitterbot/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Airtable recommendation
 update: I'm using Airtable to store some data. 
